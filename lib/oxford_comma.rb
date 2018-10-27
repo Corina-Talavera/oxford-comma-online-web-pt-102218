@@ -3,6 +3,7 @@ def oxford_comma(array)
   end
 "kiwi,durian".split("and")
   end
+ " kiwi, durian,starfruit".split("and")
   
 
 end
