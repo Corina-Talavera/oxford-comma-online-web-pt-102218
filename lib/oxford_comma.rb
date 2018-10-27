@@ -4,7 +4,7 @@ def oxford_comma(array)
 "kiwi,durian".split("and")
   end
  " kiwi, durian,starfruit".split("and")
-end
+  end
 ["kiwi,", "durian,", "starfruit," "mangos,", "and dragon fruits"].join
-
+  end
 end
